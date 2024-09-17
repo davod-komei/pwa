@@ -1,7 +1,7 @@
 {
   "name": "public",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a test project",
   "main": "index.js",
   "scripts": {
     "start": "http-server -p 8000 -c-1"

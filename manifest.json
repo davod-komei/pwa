@@ -8,7 +8,8 @@
   "display": "standalone",
   "dir": "rtl",
   "lang": "fa",
-  "discription": "hi everyone wellcome to my web site",
+  "theme_color": "#3367D6",
+  "description": "hi everyone wellcome to my web site",
   "icons": [
     {
       "src": "/static/icons/homescreen48.png",
@@ -25,7 +26,6 @@
       "sizes": "96x96",
       "type": "image/png"
     },
-
     {
       "src": "/static/icons/homescreen144.png",
       "sizes": "144x144",
@@ -40,8 +40,7 @@
       "src": "/static/icons/homescreen192.png",
       "sizes": "192x192",
       "type": "image/png"
-    },
-
+    }, 
     {
       "src": "/static/icons/homescreen256.png",
       "sizes": "256x256",
